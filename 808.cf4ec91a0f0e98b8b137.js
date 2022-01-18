@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprofil_svet=self.webpackChunkprofil_svet||[]).push([[808],{6808:(M,n,o)=>{o.r(n),o.d(n,{ContactsModule:()=>u});var l=o(8583),s=o(6394),_=o(9054),a=o(7716);let u=(()=>{class t{}return t.\u0275fac=function(E){return new(E||t)},t.\u0275mod=a.oAB({type:t}),t.\u0275inj=a.cJS({imports:[[l.ez,s.V,_.Ps]]}),t})()}}]);

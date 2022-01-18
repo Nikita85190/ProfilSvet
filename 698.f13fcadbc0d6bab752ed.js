@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprofil_svet=self.webpackChunkprofil_svet||[]).push([[698],{6698:(s,o,a)=>{a.r(o),a.d(o,{MainPageModule:()=>P});var M=a(8583),_=a(315),u=a(9054),l=a(7716);let P=(()=>{class n{}return n.\u0275fac=function(E){return new(E||n)},n.\u0275mod=l.oAB({type:n}),n.\u0275inj=l.cJS({imports:[[M.ez,_.$,u.Ps]]}),n})()}}]);
